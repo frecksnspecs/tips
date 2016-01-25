@@ -22,6 +22,8 @@
 		C8D1FA511C55E066000C0A6C /* Gotham-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = C8D1FA491C55E066000C0A6C /* Gotham-LightItalic.otf */; };
 		C8D1FA521C55E066000C0A6C /* Gotham-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = C8D1FA4A1C55E066000C0A6C /* Gotham-Medium.otf */; };
 		C8D1FA531C55E066000C0A6C /* Gotham-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = C8D1FA4B1C55E066000C0A6C /* Gotham-MediumItalic.otf */; };
+		C8D1FA5F1C55F046000C0A6C /* tips_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C8D1FA5D1C55F046000C0A6C /* tips_icon@2x.png */; };
+		C8D1FA601C55F046000C0A6C /* tips_icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C8D1FA5E1C55F046000C0A6C /* tips_icon@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +65,8 @@
 		C8D1FA491C55E066000C0A6C /* Gotham-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-LightItalic.otf"; sourceTree = "<group>"; };
 		C8D1FA4A1C55E066000C0A6C /* Gotham-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Medium.otf"; sourceTree = "<group>"; };
 		C8D1FA4B1C55E066000C0A6C /* Gotham-MediumItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-MediumItalic.otf"; sourceTree = "<group>"; };
+		C8D1FA5D1C55F046000C0A6C /* tips_icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tips_icon@2x.png"; sourceTree = "<group>"; };
+		C8D1FA5E1C55F046000C0A6C /* tips_icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tips_icon@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +149,8 @@
 		C8D1FA541C55E06F000C0A6C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				C8D1FA5D1C55F046000C0A6C /* tips_icon@2x.png */,
+				C8D1FA5E1C55F046000C0A6C /* tips_icon@3x.png */,
 				C8D1FA441C55E066000C0A6C /* Gotham-Bold.otf */,
 				C8D1FA451C55E066000C0A6C /* Gotham-BoldItalic.otf */,
 				C8D1FA461C55E066000C0A6C /* Gotham-Book.otf */,
@@ -270,7 +276,9 @@
 				C85022EE1C51C97C004E7D8B /* LaunchScreen.storyboard in Resources */,
 				C8D1FA531C55E066000C0A6C /* Gotham-MediumItalic.otf in Resources */,
 				C8D1FA501C55E066000C0A6C /* Gotham-Light.otf in Resources */,
+				C8D1FA601C55F046000C0A6C /* tips_icon@3x.png in Resources */,
 				C85022EB1C51C97C004E7D8B /* Assets.xcassets in Resources */,
+				C8D1FA5F1C55F046000C0A6C /* tips_icon@2x.png in Resources */,
 				C8D1FA4D1C55E066000C0A6C /* Gotham-BoldItalic.otf in Resources */,
 				C85022E91C51C97C004E7D8B /* Main.storyboard in Resources */,
 			);
